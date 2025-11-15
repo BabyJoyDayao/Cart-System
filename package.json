@@ -13,5 +13,14 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.1.16",
     "tailwindcss": "^4.1.16"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabyJoyDayao/Cart-System.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BabyJoyDayao/Cart-System/issues"
+  },
+  "homepage": "https://github.com/BabyJoyDayao/Cart-System#readme"
 }

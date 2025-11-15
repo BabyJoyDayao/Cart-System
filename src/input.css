@@ -1,3 +1,5 @@
 @import "tailwindcss";
 
-
+/* .product{
+    @apply bg-gray-800 p-10 md:m-10 md:rounded-2xl md:shadow-sm text-center;
+} */
